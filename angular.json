@@ -28,6 +28,7 @@
               "src/assets"
             ],
             "styles": [
+              "bootstrap/dist/css/bootstrap.rtl.min.css",
               "src/styles.scss"
             ],
             "scripts": []
